@@ -1,10 +1,11 @@
 # Summary
 
-* [Preamble](./00-preamble.md)
-* [Introduction to the Green Deal Data Space (GDDS)](./01-introduction-to-the-green-deal-data-space-gdds.md)
-* [Green Deal Data Space Rulebook](./02-green-deal-data-space-rulebook.md)
-* [Documentation structure](./03-documentation-structure.md)
-* [Glossary](./04-glossary.md)
+* [Getting Started](./00-getting-started/README.md)
+  * [Preamble](./00-getting-started/00-preamble.md)
+  * [Introduction to the Green Deal Data Space (GDDS)](./00-getting-started/01-introduction-to-the-green-deal-data-space-gdds.md)
+  * [Green Deal Data Space Rulebook](./00-getting-started/02-green-deal-data-space-rulebook.md)
+  * [Documentation structure](./00-getting-started/03-documentation-structure.md)
+  * [Glossary](./00-getting-started/04-glossary.md)
 * [Business & Organisational Building Blocks](./05-business-organisational-building-blocks/README.md)
   * [Business Building Blocks](./05-business-organisational-building-blocks/business-building-blocks.md)
   * [Business Model](./05-business-organisational-building-blocks/business-model.md)

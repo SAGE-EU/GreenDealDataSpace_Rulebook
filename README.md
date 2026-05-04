@@ -4,11 +4,7 @@ The Rulebook is organised as a folder + subpage hierarchy so it can be browsed n
 
 ## Top-level contents
 
-- [Preamble](./00-preamble.md)
-- [Introduction to the Green Deal Data Space (GDDS)](./01-introduction-to-the-green-deal-data-space-gdds.md)
-- [Green Deal Data Space Rulebook](./02-green-deal-data-space-rulebook.md)
-- [Documentation structure](./03-documentation-structure.md)
-- [Glossary](./04-glossary.md)
+- [Getting Started](./00-getting-started/) — Preamble, Introduction, Rulebook, Documentation structure and Glossary.
 - [Business & Organisational Building Blocks](./05-business-organisational-building-blocks/)
 - [Governance Building Blocks](./06-governance-building-blocks/) — includes Organisational Form and Governance Framework as nested sections.
 - [Legal Building Blocks](./07-legal-building-blocks/)
