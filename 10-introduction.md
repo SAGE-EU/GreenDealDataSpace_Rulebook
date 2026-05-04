@@ -1,4 +1,5 @@
-# Introduction
+# Technical Building Blocks
+## Introduction
 
 Technical capabilities form the foundation for operating and scaling the Green Deal Data Space (GDDS). Their purpose is to ensure secure, interoperable, and value-driven data exchange between diverse participants across sectors and Member States.
 
