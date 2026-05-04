@@ -171,7 +171,7 @@ Figure 1: Overview of DSSC Data Spaces Blueprint v3.0 Building Blocks
 
 # **Glossary**
 
-# The glossary provided by the SAGE consortium members/initiative forms the basis of the glossary of this data space. The glossary is aligned with the relevant EU normative frameworks (e.g. GDPR, DGA, Data Act), considering the changes proposed in the Digital Omnibus, and the DSSC Blueprint v2.0.
+The glossary provided by the SAGE consortium members/initiative forms the basis of the glossary of this data space. The glossary is aligned with the relevant EU normative frameworks (e.g. GDPR, DGA, Data Act), considering the changes proposed in the Digital Omnibus, and the DSSC Blueprint v2.0.
 
 <table>
 <thead>
