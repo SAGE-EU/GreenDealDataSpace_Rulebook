@@ -10,20 +10,15 @@ The Rulebook is organised as a folder + subpage hierarchy so it can be browsed n
 - [Documentation structure](./03-documentation-structure.md)
 - [Glossary](./04-glossary.md)
 - [Business & Organisational Building Blocks](./05-business-organisational-building-blocks/)
-- [Governance Building Blocks](./06-governance-building-blocks/)
-- [Organisational Form and Governance Authority](./07-organisational-form/)
-- [Governance Framework](./08-governance-framework/)
-- [Legal Building Blocks](./09-legal-building-blocks/)
-- [Technical Building Blocks](./10-technical-building-blocks.md)
-- [Data Interoperability](./11-data-interoperability/)
-- [Data Sovereignty and Trust](./12-data-sovereignty-and-trust/)
-- [Data Value Creation Enablers](./13-data-value-creation-enablers/)
+- [Governance Building Blocks](./06-governance-building-blocks/) — includes Organisational Form and Governance Framework as nested sections.
+- [Legal Building Blocks](./07-legal-building-blocks/)
+- [Technical Building Blocks](./08-technical-building-blocks/) — includes Data Interoperability, Data Sovereignty and Trust, and Data Value Creation Enablers.
 
 ## Conventions
 
 - Each numbered building block is a folder. Its `README.md` holds the section's H1 title and introductory text and links to the subpages.
 - Subpages within a folder use kebab-case file names derived from the original H2 headings.
-- The very large `07-organisational-form/` section is further split into `mvp1-project-phase/` and `mvp2-operational/` sub-folders, plus a separate `transition-logic.md` page.
+- The very large `06-governance-building-blocks/organisational-form/` section is further split into `mvp1-project-phase/` and `mvp2-operational/` sub-folders, plus a separate `transition-logic.md` page.
 - The full, unsplit document is preserved at [`full.md`](./full.md).
 
 ## Images

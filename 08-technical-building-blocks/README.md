@@ -36,3 +36,9 @@ Technical capabilities are grouped into three interconnected pillars:
 By aligning these technical building blocks with the governance, legal, and operational layers, GDDS aims to deliver a trusted and interoperable data space that fosters innovation while safeguarding sovereignty, compliance, and shared values.
 
 *Further content will be added after co-creation sessions.*
+
+## In this section
+
+- [Data Interoperability](./data-interoperability/README.md) — semantic models, data exchange, and provenance/traceability.
+- [Data Sovereignty and Trust](./data-sovereignty-and-trust/README.md) — identity and attestation, trust framework, and access & usage policies enforcement.
+- [Data Value Creation Enablers](./data-value-creation-enablers/README.md) — descriptions of data/services, publication and discovery, and value-added services.

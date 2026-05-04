@@ -24,6 +24,13 @@ The current GDDS Governance Framework has been developed through an iterative **
 
 ## In this section
 
-- [LAYER 1 - Research-Informed, Governance Design - Principles for the GDDS — how governance must be designed](./layer-1-research-informed-governance-design-principles-for-the-gdds-how-governance-must-be-designed.md)
-- [LAYER 2 – Governance Capabilities defined in GDDS — what governance should enable](./layer-2-governance-capabilities-defined-in-gdds-what-governance-should-enable.md)
-- [LAYER 3 – Operational Governance Requirements — what governance should enable](./layer-3-operational-governance-requirements-what-governance-should-enable.md)
+**Governance design principles**
+
+- [LAYER 1 – Research-Informed Governance Design](./layer-1-research-informed-governance-design-principles-for-the-gdds-how-governance-must-be-designed.md)
+- [LAYER 2 – Governance Capabilities defined in GDDS](./layer-2-governance-capabilities-defined-in-gdds-what-governance-should-enable.md)
+- [LAYER 3 – Operational Governance Requirements](./layer-3-operational-governance-requirements-what-governance-should-enable.md)
+
+**Governance structure**
+
+- [Organisational Form and Governance Authority](./organisational-form/README.md) — institutional structure, governance bodies, MVP1 and MVP2 models, and the transition logic between them.
+- [Governance Framework](./governance-framework/README.md) — participation, roles and trust framework; data sovereignty and technical governance; certification and conformity.
