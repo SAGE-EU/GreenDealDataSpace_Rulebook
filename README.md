@@ -1,19 +1,24 @@
-# Introduction to the Green Deal Data Space  
+# GDDS Rulebook v0.3
 
-## SAGE: The Data Space for a Sustainable Green Europe  
+Document split by Heading 1 into separate Markdown files for browsing on GitHub.
 
-SAGE will establish a fully operational Green Deal Data Space (GDDS) aimed at enhancing the accessibility, integration, and utilisation of green and environmental data across the EU to support key pillars of the European Green Deal—Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.  
+## Contents
 
-Building directly upon the [GREAT Project](https://www.greatproject.eu/) community and results, and aligning with the Digital Europe Programme's strategic focus on AI, cybersecurity, advanced computing, and data infrastructure, SAGE leverages outcomes from the European Strategy for Data and Research facilitated by [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en).  
+- [Preamble](./00-preamble.md)
+- [Introduction to the Green Deal Data Space (GDDS)](./01-introduction-to-the-green-deal-data-space-gdds.md)
+- [Green Deal Data Space Rulebook](./02-green-deal-data-space-rulebook.md)
+- [Documentation structure](./03-documentation-structure.md)
+- [Glossary](./04-glossary.md)
+- [Business & Organisational Building Blocks](./05-business-organisational-building-blocks.md)
+- [Governance Building Blocks](./06-governance-building-blocks.md)
+- [Organisational Form and Governance Authority](./07-organisational-form.md)
+- [Governance Framework](./08-governance-framework.md)
+- [Legal Building Blocks](./09-legal-building-blocks.md)
+- [Technical Building Blocks](./10-technical-building-blocks.md)
+- [Data Interoperability](./11-data-interoperability.md)
+- [Data Sovereignty and Trust](./12-data-sovereignty-and-trust.md)
+- [Data Value Creation Enablers](./13-data-value-creation-enablers.md)
 
-SAGE's outcomes include seamlessly integrating fragmented environmental data through federation, enriching data with consistent quality, validation, and interoperable metadata, and enhancing capabilities for data transformation, processing, analysis, forecasting, target setting, and performance monitoring. Targeting businesses seeking compliance with EGD regulations, government bodies optimising environmental impact, citizens and citizen scientists engaging in environmental stewardship, and researchers aiming to deepen our ecological understanding, SAGE aspires to foster informed decision-making and policy formulation based on robust data and evidence.  SAGE’s sustainability will be ensured by establishing a standalone legal entity to manage the data space and scale operations throughout the project's lifetime and beyond.  
+## Images
 
----
-
-## SAGE: Green Deal Data Space Template  
-
-The SAGE Green Deal Data Space Template is a foundational framework developed to support the design, deployment, and governance of data spaces aligned with the European Green Deal objectives. It serves as a reference architecture and operational model to guide stakeholders in building interoperable, secure, and trustworthy data ecosystems that facilitate sustainable innovation, data sovereignty, and cross-sector collaboration.  
-
-Developed within the context of the SAGE initiative, the template leverages key building blocks from the [Data Spaces Support Centre (DSSC)](https://dssc.eu/space/BVE2/1071251457/Data+Spaces+Blueprint+v2.0+-+Home). It addresses critical aspects such as governance, business models, technical interoperability, and legal compliance, offering practical guidance for both public and private organisations engaging in environmental data sharing.  
-
-This page provides an overview of the template’s structure, its core components, and how it can be customised to support specific Green Deal-related use cases.  Whether you're a data space architect, or solution provider, this resource aims to accelerate the responsible creation of this impactful data space that contribute to Europe’s green transition.  
+Embedded images are in [`./images/`](./images/).
