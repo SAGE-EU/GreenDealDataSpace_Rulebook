@@ -161,7 +161,7 @@ The Figure below describes the following building blocks:
 
   - > [<span class="underline">Data Value Creation Enablers</span>](https://dssc.eu/space/BVE2/1071256290): Describing and publishing of data products and making them findable for others (e.g. in a catalogue), as well as introducing additional services for value-creation in your data space.
 
-![](./media/image3.png)
+![](./images/image3.png)
 
 Figure 1: Overview of DSSC Data Spaces Blueprint v3.0 Building Blocks
 
