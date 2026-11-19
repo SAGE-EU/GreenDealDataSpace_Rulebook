@@ -220,7 +220,7 @@ The DSGO performs several coordination and governance support functions, includi
 
 The DSGO operates within the governance framework of the GDDS and therefore cannot modify or override the GDDS baseline governance rules, nor override decisions taken by the Council of Participants or Supervisory Board. &#x20;
 
-It holds no operational authority over shared infrastructure or registries, which remain the responsibility of the GDDS Operator, and its facilitative role does not extend to acting on behalf of individual participants in their own admission, certification, or contractual matters.&#x20;
+It holds no operational authority over shared infrastructure or registries of GDDS. This remains the responsibility of the GDDS Operator. The DSGO's facilitative role does not extend to acting on behalf of individual participants in their own admission, certification, or contractual matters, unless they authorise it.&#x20;
 
 ### Coordination and Escalation&#x20;
 
